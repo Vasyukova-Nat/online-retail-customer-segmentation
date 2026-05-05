@@ -20,6 +20,8 @@
 - Оценка качества: Silhouette Score, Calinski-Harabasz, Davies-Bouldin
 - Интерпретация сегментов и рекомендации для бизнеса
 
+![Сравнение методов](images/clusters_comparison.png)
+
 ## Результат
 
 Выделены 2 сегмента:
